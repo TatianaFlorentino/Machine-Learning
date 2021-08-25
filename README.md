@@ -26,9 +26,6 @@
 * Data Wrangling IV
 
 * Análise Espacial I
-
-
-
-
-
+* Análise Espacial II
+* Análise Espacial III_
 
