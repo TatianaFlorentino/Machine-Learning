@@ -2,6 +2,10 @@
 
 ## Mostrar aplicação das técnicas abaixo:
 
+* Fundamentos de Estatística I
+* Fundamentos de Estatística II
+* Fundamentos de Estatística III
+
 * Introdução ao Machine Learning II 
 * Unsupervised Machine Learning: Clustering I
 * Unsupervised Machine Learning: Clustering II
