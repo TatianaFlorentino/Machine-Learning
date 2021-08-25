@@ -22,12 +22,19 @@
 * Supervised Machine Learning: Modelos Logísticos Binários e Multinomiais II
 * Supervised Machine Learning: Modelos Logísticos Binários e Multinomiais III
 * Supervised Machine Learning: Modelagem Multinível I
-* Supervised Machine Learning: Modelagem Multinível Ii
+* Supervised Machine Learning: Modelagem Multinível II
+* 
+* Outros Modelos de Machine Learning I
+* Outros Modelos de Machine Learning II
+* Outros Modelos de Machine Learning III
+
+* Data Wrangling I
+* Data Wrangling II
+* Data Wrangling III
 * Data Wrangling IV
 
 * Análise Espacial I
 * Análise Espacial II
 * Análise Espacial III
-
 * Análise Espacial IV
 
