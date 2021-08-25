@@ -20,6 +20,8 @@
 * Supervised Machine Learning: Análise de Regressão Simples e Múltipla III
 * Supervised Machine Learning: Modelos Logísticos Binários e Multinomiais I
 * Supervised Machine Learning: Modelos Logísticos Binários e Multinomiais I 
+* Supervised Machine Learning: Modelos para Dados de Contagem I
+* Supervised Machine Learning: Modelos para Dados de Contagem II
 
 
 
