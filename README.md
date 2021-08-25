@@ -1,7 +1,8 @@
-# Modelagem e análises estastitica com R
+# Estudos de técnicas e modelagem estastitica c
 
-Introdução ao Machine Learning II 
+## Mostrar aplicação das técnicas abaixo:
 
+* Introdução ao Machine Learning II 
 * Unsupervised Machine Learning: Clustering I
 * Unsupervised Machine Learning: Clustering II
 * Unsupervised Machine Learning: Análise Fatorial e PCA I
