@@ -14,7 +14,6 @@
 * Unsupervised Machine Learning: Análise de Correspondência I
 * Unsupervised Machine Learning: Análise de Correspondência II
 
-
 * Supervised Machine Learning: Análise de Regressão Simples e Múltipla I
 * Supervised Machine Learning: Análise de Regressão Simples e Múltipla II
 * Supervised Machine Learning: Análise de Regressão Simples e Múltipla III
@@ -23,7 +22,7 @@
 * Supervised Machine Learning: Modelos Logísticos Binários e Multinomiais III
 * Supervised Machine Learning: Modelagem Multinível I
 * Supervised Machine Learning: Modelagem Multinível II
-* 
+
 * Outros Modelos de Machine Learning I
 * Outros Modelos de Machine Learning II
 * Outros Modelos de Machine Learning III
