@@ -1,4 +1,4 @@
-# Estudos de técnicas e modelagem estastitica c
+# Estudos de técnicas estatísticas 
 
 ## Mostrar aplicação das técnicas abaixo:
 
